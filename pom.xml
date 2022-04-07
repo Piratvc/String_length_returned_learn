@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>String length returned_learn</artifactId>
+    <artifactId>String_length_returned_learn</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -25,6 +25,8 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+
     <build>
         <plugins>
             <plugin>

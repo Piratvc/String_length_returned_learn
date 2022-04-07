@@ -3,7 +3,7 @@ public enum WarningWordsType {
     WORD2 ("Война"),
     WORD3 ("Взрыв");
 
-    private String string;
+    private final String string;
 
     WarningWordsType(String string) {
         this.string = string;
